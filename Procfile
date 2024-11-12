@@ -1,1 +1,1 @@
-web: gunicorn Django_Testing.wsgi
+web: gunicorn my_project.wsgi
